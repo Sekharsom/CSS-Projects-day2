@@ -1,0 +1,46 @@
+.bg{
+    position: relative;
+    width: 600px;
+    margin: 40px auto;
+
+}
+
+.card-img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+h2{
+    position: absolute;
+    /* text-align: center; */
+    top:100px;
+    left:80px;
+    color: white;
+
+}
+
+p{
+    position: absolute;
+    /* text-align: center; */
+    top:150px;
+    left:80px;
+    font-size: 16px;
+    color: white;
+
+}
+
+.btn{
+    position: absolute;
+    top:280px;
+    left:200px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    padding: 10px;
+
+    
+
+
+}

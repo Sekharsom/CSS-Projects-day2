@@ -1,0 +1,50 @@
+.bg{
+    position: relative;
+    width: 700px;
+    margin: 40px auto;
+
+}
+
+.card-img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+h1{
+    position: absolute;
+    text-align: center;
+    top:80px;
+    left:250px;
+    color: white;
+    font-style: italic;
+    font-size: 80px;
+}
+
+p{
+    position: absolute;
+    /* text-align: center; */
+    top:200px;
+    padding-top: 20px;
+    left:180px;
+    font-size: 20px;
+    color: white;
+
+
+}
+
+input{
+    position: absolute;
+    width: 300px;
+    top:280px;
+    left:180px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    padding: 10px;
+
+    
+
+
+}
